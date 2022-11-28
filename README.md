@@ -1,6 +1,6 @@
 # Hello! 🎉 
 
-I'm Luke, a software engineer in Nashville, TN.
+I'm [Luke](https://lukemoorman.com), a software engineer in Nashville, TN.
 
 I'm passionate about **front-end development**, **product analytics**, **music**, **novel writing**, **ministry** & **building digital products** that solve problems and help people.
 
